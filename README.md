@@ -54,17 +54,12 @@
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
-| 🌐 `angular-credit-card-simulation-contract` | Angular | Desenvolvimento de ferramenta de simulações de contratos para empresas de
-diversos segmentos |
-| 🌐 `angular-nps` | Angular | Criação de formulários dinâmicos para ferramentas de pesquisas relacionadas a Net
-Promoter Score |
+| 🌐 `angular-credit-card-simulation-contract` | Angular | Desenvolvimento de ferramenta de simulações de contratos para empresas de diversos segmentos |
+| 🌐 `angular-nps` | Angular | Criação de formulários dinâmicos para ferramentas de pesquisas relacionadas a Net Promoter Score |
 | 🔵 `salesforce-lwc-file-uploader` | LWC + Apex | File Uploader customizável com Multipart form data com integração na Mulesoft + AWS (via rest API) |
-| 🔵 `salesforce-crm-lwc-integration` | LWC + CRM Analytics | Desenvolvimento de dashboards realizando integrações entre CRM Analytics +
-Lightning Web Components |
-| 📱 `ionic-file-manager` | Ionic | Desenvolvimento de app mobile para gerenciamento de arquivos em nuvem para uma
-rede de ensino |
-| 📱 `ionic-qrcode-scanner` | Ionic | Desenvolvimento de app para leitura de um QR Code e registro das informações em base
-de dados para controle de acesso de funcionários e terceiros na empresa |
+| 🔵 `salesforce-crm-lwc-integration` | LWC + CRM Analytics | Desenvolvimento de dashboards realizando integrações entre CRM Analytics + Lightning Web Components |
+| 📱 `ionic-file-manager` | Ionic | Desenvolvimento de app mobile para gerenciamento de arquivos em nuvem para uma rede de ensino |
+| 📱 `ionic-qrcode-scanner` | Ionic | Desenvolvimento de app para leitura de um QR Code e registro das informações em base de dados para controle de acesso de funcionários e terceiros na empresa |
 
 ---
 
