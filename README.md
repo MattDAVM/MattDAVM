@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack
 
 ### ☁️ Salesforce
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&pointer-events=none)
 ![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge&logo=mulesoft&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
