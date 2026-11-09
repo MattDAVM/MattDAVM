@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Matheus+Gonçalves+👋;Software+Engineer+%7C+7%2B+years;Salesforce+%7C+Angular+%7C+Java+%7C+AWS" alt="Typing SVG" />
-</div>
-
----
-
-## 🧑‍💻 About Me
+ ## 🧑‍💻 About Me
 
 ```text
 💼 Software Engineer with 6+ years of experience
